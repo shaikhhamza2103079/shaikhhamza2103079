@@ -1,0 +1,7 @@
+age	salary
+20	5000
+30	15000
+24	12000
+50	40000
+55	45000
+![image](https://github.com/shaikhhamza2103079/shaikhhamza2103079/assets/167249979/84139681-b75f-418f-b971-b5f172257c9b)
